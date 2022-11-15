@@ -1,7 +1,7 @@
 // document.query
 
 var sound1;
-sound1="DOM Challenge Starting Files\song\Despite the Flop - Faraj Suleiman.mp3"
+sound1="DOM Challenge Starting Files/song/10275_1369687679.mp3"
 
 
 for (var d=0; d<document.querySelectorAll(".btn").length; d++){
